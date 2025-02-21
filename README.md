@@ -43,7 +43,7 @@ This is a Telegram bot for real estate search and management using MongoDB.
 
 Make sure your `.env` file is set up, then run:
 ```bash
-python bot.py
+python main.py
 ```
 
 ## Usage
